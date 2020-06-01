@@ -1,0 +1,7 @@
+rootProject.name = 'bsg5'
+
+// add inclusions as the chapter sources are followed
+include 'chapter2'
+include 'chapter3'
+include 'chapter6'
+include 'chapter7'

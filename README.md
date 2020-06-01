@@ -1,2 +1,4 @@
 # beginning-spring-5
- hands-on
+Following code from Beginning Spring 5 book. 
+Original repository is https://github.com/Apress/beginning-spring-5 but this one has some updates.
+
