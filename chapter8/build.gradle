@@ -1,0 +1,14 @@
+plugins {
+    id 'org.springframework.boot' version '2.3.0.RELEASE'
+    id "io.freefair.lombok" version "5.1.0"
+}
+
+apply plugin: 'io.spring.dependency-management'
+
+dependencies {
+    implementation "com.h2database:h2:1.4.200"
+    implementation "org.springframework.boot:spring-boot-starter-web"
+    implementation "org.springframework.boot:spring-boot-starter-jdbc"
+
+    testImplementation "org.springframework.boot:spring-boot-starter-test"
+}
