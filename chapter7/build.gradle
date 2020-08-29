@@ -13,5 +13,5 @@ dependencies {
 
 bootJar {
     archiveBaseName = 'bsg5-chapter7'
-    version = '1.0.0'
+    archiveVersion = '1.0.0'
 }
